@@ -9,5 +9,5 @@
 
 <ul>
   <li>I`m currently working on <b>Mobile App</b></li>
-  <li>Ask me about CSS, Java</li>
+  <li>Ask me about CSS, Java, HTML</li>
   </ul>
