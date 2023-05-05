@@ -11,7 +11,6 @@
   <li>I`m currently working on <b>Mobile App</b></li>
   <li>Ask me about CSS, Java, HTML</li>
   </ul>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atillasimsek&label=Profile%20views&color=0e75b6&style=flat" alt="atillasimsek" /> </p>
 
